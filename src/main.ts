@@ -1,4 +1,4 @@
-// import './style.css'
+import './style.css'
 // // Комментарий
 // // alert('Я JS')
 // console.log('Я JS') // выводит в консоль "Я JS"
